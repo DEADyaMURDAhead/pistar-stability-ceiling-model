@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="media/IMG_0744.png" width="240" />
+</p>
 # Π*‑Φ‑Λ‑Ω System  
 ### A Unified Model of Performance Stability, Lock‑In, and Post‑Render Dynamics  
 **Author:** DEADyaMURDAhead  
