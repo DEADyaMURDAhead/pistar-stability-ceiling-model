@@ -154,7 +154,7 @@ Optimal operation occurs sub-critically, just below the Λ-ridge, where Π* is m
 - **Visual evidence (Black Ops 7 Benchmark, April 21, 2026):**
 
 *Balanced — 49% GPU, 192 FPS*
-![49% GPU](media/IMG_0905.png)
+![49% GPU](media/IMG_0903.png)
 
 *Hybrid — 70% GPU, 187 FPS*
 ![70% GPU](media/IMG_0904.jpeg)
