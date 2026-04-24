@@ -286,6 +286,12 @@ Appendix A — Example Behavior
 At 0.5× internal resolution:
 
 • GPU load decreases
+Visual documentation (April 21, 2026, Black Ops 7 Benchmark):
+- Balanced (49% GPU, 192 FPS): media/IMG_0905.png
+- Hybrid (70% GPU, 187 FPS): media/IMG_0904.jpeg  
+- GPU-bound (89% GPU, 148 FPS): media/IMG_0905.jpeg
+
+See README.md Appendix A for rendered screenshots.
 • CPU bottleneck becomes visible
 • Π* increases
 • Φ smooths
