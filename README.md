@@ -6,6 +6,15 @@
 **A Unified Model of Performance Stability, Lock‑In, and Post‑Render Dynamics**
 
 **Author:** DEADyaMURDAhead / Caleb Joe Bastian
+### Author's Note — Origin
+
+I purchased my first prebuilt gaming PC on **March 4, 2026**. I had never owned a PC before.
+
+While gaming over the next few weeks I started noticing the same thing: games felt smoother when I lowered the internal resolution, even though the output stayed the same. I didn't keep written logs or charts — I worked it out in my head during play sessions.
+
+I used AI tools to help me turn those mental observations into clear definitions and math. That became the Π*, Φ, Λ, and Ω terms you see here. I published the framework on **April 24, 2026** (about seven weeks later) on GitHub and Zenodo (DOI: 10.5281/zenodo.19727850) so others could read, test, and correct it.
+
+This is a conceptual model based on personal observation and AI-assisted formalization, not a lab study with instrumented data. I am sharing it openly as a starting point.
 **Version:** 1.0
 **Date:** April 24, 2026
 
