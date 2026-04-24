@@ -6,15 +6,14 @@
 **A Unified Model of Performance Stability, Lock‑In, and Post‑Render Dynamics**
 
 **Author:** DEADyaMURDAhead / Caleb Joe Bastian
-### Author's Note — Origin
 
-I purchased my first prebuilt gaming PC on **March 4, 2026**. I had never owned a PC before.
+## Author's Note — 
 
-While gaming over the next few weeks I started noticing the same thing: games felt smoother when I lowered the internal resolution, even though the output stayed the same. I didn't keep written logs or charts — I worked it out in my head during play sessions.
-
-I used AI tools to help me turn those mental observations into clear definitions and math. That became the Π*, Φ, Λ, and Ω terms you see here. I published the framework on **April 24, 2026** (about seven weeks later) on GitHub and Zenodo (DOI: 10.5281/zenodo.19727850) so others could read, test, and correct it.
-
-This is a conceptual model based on personal observation and AI-assisted formalization, not a lab study with instrumented data. I am sharing it openly as a starting point.
+- I bought my first PC on March 4, 2026. I have no formal lab, no prior benchmarking experience, and no dataset beyond what I observed myself.
+- I noticed consistent performance patterns while playing Call of Duty on that PC (March–April 2026) and wrote down FPS, GPU%, and temperature changes from memory.
+- The FPS gain ranges cited in this repo (1.66×–2.53×) are not from testing I performed. They are synthesized from memory of multiple public hardware reviews I read online between 2021–2024.
+- I used AI tools (ChatGPT, Copilot, and Meta AI) to help formalize those observations into the PiStar Stability Ceiling Model and to write the equations and documentation.
+- This is not a peer-reviewed study. It is a personal documentation project intended to be fully transparent about its origins and limitations.
 **Version:** 1.0
 **Date:** April 24, 2026
 
@@ -102,6 +101,7 @@ Independent third-party reviewer data (n=6 titles, 2021–2024) report FPS gains
 FPS_tuned / FPS_ref ≈ 1.5–1.9×  at β ≈ 0.35–0.45
 
 This corresponds to observed scaling at reduced internal resolution, with improved Π* and stabilized Ω.
+Transparency note: The 1.66×–2.53× range is not from a dataset I collected — it's synthesized from memory of multiple public hardware reviews I read online between 2021–2024. My own contribution is limited to personal Call of Duty observations on my PC (purchased March 4, 2026), which I used to identify the initial pattern and then formalize with AI assistance.
 
 ---
 
