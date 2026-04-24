@@ -245,6 +245,10 @@ With both compute domains defined, the following glossary summarizes the core sy
 
 ---
 
+"Optimal operation occurs sub-critically, just below the Λ‑ridge, where Π* is maximized before voltage and thermal costs dominate — this corresponds to the untuned CPU state observed in initial testing."
+
+---
+
 Glossary
 
 Π*
