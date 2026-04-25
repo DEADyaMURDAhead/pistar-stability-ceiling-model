@@ -1,3 +1,5 @@
+## Abstract
+The Π*Φ‑Λ‑Ω System proposes a unified, dimensionless framework for describing performance stability, lock‑in behavior, and post‑render dynamics across CPU and GPU workloads. It introduces four linked quantities—Π*, Φ, Λ, and Ω—that together characterize how a system transitions between efficient, stable operation and collapse states driven by resolution scaling, flow imbalance, or headroom loss. The model is hardware‑agnostic and is intended as a conceptual foundation for future empirical validation, tooling, and formal mathematical refinement.
 
   ![Upgraded form with regime gate](media/IMG_0824.png)
  <p
