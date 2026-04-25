@@ -9,13 +9,13 @@ The Π*Φ‑Λ‑Ω System proposes a unified, dimensionless framework for descr
 
 **Author:** DEADyaMURDAhead / Caleb Joe Bastian
 
-## Author's Note — 
+## Author’s Note —
+- I bought my first PC on March 4, 2026. I have no formal lab, no prior benchmarking experience, and no dataset beyond what I observed myself.  
+- I noticed consistent performance patterns while playing Call of Duty on that PC (March–April 2026) and documented them with Black Ops 7 benchmark screenshots taken April 21, 2026.  
+- The FPS gain ranges cited in this repo (1.66×–2.53×) are not from testing I performed. They are synthesized from memory of multiple public hardware reviews I read online between 2021–2024.  
+- I used AI tools (ChatGPT, Copilot, and Meta AI) to help formalize those observations into the PiStar Stability Ceiling Model and to write the equations and documentation.  
+- This is not a peer‑reviewed study. It is a personal documentation project intended to be fully transparent about its origins and limitations. **Version:** 1.0 **Date:** April 24, 2026
 
-- I bought my first PC on March 4, 2026. I have no formal lab, no prior benchmarking experience, and no dataset beyond what I observed myself.
-- I noticed consistent performance patterns while playing Call of Duty on that PC (March–April 2026) and documented them with Black Ops 7 benchmark screenshots taken April 21, 2026.
-- The FPS gain ranges cited in this repo (1.66×–2.53×) are not from testing I performed. They are synthesized from memory of multiple public hardware reviews I read online between 2021–2024.
-- I used AI tools (ChatGPT, Copilot, and Meta AI) to help formalize those observations into the PiStar Stability Ceiling Model and to write the equations and documentation.
-- This is not a peer-reviewed study. It is a personal documentation project intended to be fully transparent about its origins and limitations.
 **Version:** 1.0
 **Date:** April 24, 2026
 
